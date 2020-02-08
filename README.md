@@ -2,8 +2,8 @@
 
 from the command prompt clone the project
 
-* $git clone https://github.com/techsithgit/react-higher-order-components.git
-* $cd react-higher-order-components
+* $git clone https://github.com/wasilahmad/react-assignment-ecommerce.git
+* $cd react-assignment-ecommerce
 * $npm install
 * $npm start
 
